@@ -1,0 +1,15 @@
+1. Las variables son numeros,textos, u otro valor que utilizamos cuando programamos para formar 
+    combinaciones matematicas o lógicas.
+
+2. Un String es un pedazo de texto,oracion,frase o carácter.El string debe estar entre
+    comillas para ser interpretada como tal por javascript.
+
+3. Las funciones son pequeños código que los volvemos a utilizar cuando 
+    los llamamos (nombre de la funcion(); ). Las funciones pueden recibir algun valor para realizar un proceso 
+    y devolver algo.
+
+4. Las declaraciones "if" permiten cambiar el camino del programa luego de preguntarse algo.Luego puede ejecutar
+    el proceso dentro de ese if. Si eso no es verdad ocurre el proceso del bloque else. 
+
+5. Valores booleanos(true,false) Los valores booleanos solo pueden tomar el valor de verdadero o de falso. 
+     Estos valores son usados "inconscientemente", en secuencias if-else.
