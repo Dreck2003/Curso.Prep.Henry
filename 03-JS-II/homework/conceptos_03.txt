@@ -1,0 +1,4 @@
+1. "for", es un bucle o ciclo que realiza una operacion una cantidad de veces. En el ciclo for debemos declarar e inicializar una variable
+   , poner un limite(catidad de veces que se repite el ciclo), y  el aumento o decremento de esa variable.
+
+2. Los operadores lógicos son "simbolos" que nos sirven dentro de sentencias de control (como el if) pues comparan valores. EL "&&"" es      verdadero cuando todas las expresiones son verdaderas. El "||" es verdadero cuando una expresion es verdadera . Y el "!" cambia el valor  booleano de la expresion, si es verdadero, ahora es falso, o viceversa.
