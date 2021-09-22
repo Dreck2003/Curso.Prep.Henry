@@ -1,0 +1,14 @@
+
+
+1.Los objetos son estructuras de datos para representar mejor las cualidades de los componenetes de la vida real.Los objetos son similares a los arrays, pero para acceder a 
+una propiedad se accede con el nombre de esta.
+
+2. Las propiedades (en objetos), son las caracteristicas del objeto. Son algo asi como una representación de un valor que puede variar , pero la propiedad no.
+
+3.Los métodos son funciones dentro de un objeto, y son parte de esta. Son introducidas dentro de una propiedad.
+
+4. El ciclo "for..in" es un tipo de ciclo for que itera por cada propiedad del objeto. Se inicializa una variable, luego se coloca "in", y por ultimo el nombre del objeto.Se usa este ciclo
+junto con la notación por corchetes. 
+
+5. La notación por punto es colocar el nombre del objeto, seguido de un punto, y luego colocar el nombre de la propiedad.(Ejem. objeto1.nombre).El método de corchetes es
+ colocar el nombre del objeto y (entre corchetes) el nombre de la propiedad como string.(Ejem. objeto2["nombre"])
