@@ -1,0 +1,3 @@
+1. El "prototype" es como crear un objeto general que puede contener métodos que los objetos comunes no tienen.Aún asi se puede acceder a dichos métodos (aunque no lo tenga).
+
+2.Los constructores de clases son funciones que construyen las propiedades que tendrán los objetos creados a partir de esta plantilla. Puede recibir parámetros, y luego enlazar los valores usando "this", que hace referencia al objeto.
