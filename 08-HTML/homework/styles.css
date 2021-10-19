@@ -1,0 +1,42 @@
+
+
+body{
+	background-image: url(https://d500.epimg.net/cincodias/imagenes/2020/09/04/lifestyle/1599210924_839777_1599210984_rrss_normal.jpg);
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+body div{
+	padding:  auto;
+}
+
+		h1{
+			color: #44b8;
+		}
+		img{
+			width: 400px;
+		}
+		#thirdDiv{
+			height: 600px;
+			width: 500px;
+			background-color: #06e;
+			padding: 50px;
+			border: 4px dashed #88e;
+		}
+		#spanId{
+			font-size: 18px;
+			margin: 50px;
+		}
+
+
+.divClass{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+a{
+	color: antiquewhite;
+}
